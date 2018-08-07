@@ -1,0 +1,9 @@
+servers: 10.156.58.116:9092,10.156.58.125:9092,10.156.58.126:9092,10.156.58.127:9092
+retries: 0
+batchSize: 16384
+lingerMs: 1
+bufferMemory: 33554432
+canalBatchSize: 50
+topic: canal-binlog-json
+
+

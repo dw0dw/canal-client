@@ -1,0 +1,4 @@
+zkServers: 10.156.58.116:2181,10.156.58.125:2181,10.156.58.126:2181,10.156.58.127:2181
+destination: canal-binlog,canal-binlog-cps
+
+
